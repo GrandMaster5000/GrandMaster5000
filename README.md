@@ -16,7 +16,6 @@ Software engineer with 6+ years of experience.  Worked for innovative startups, 
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 Statistics
-[![GrandMaster5000's github stats](https://github-readme-stats.vercel.app/api?username=GrandMaster5000&theme=dark&count_private=true)](https://github.com/GrandMaster5000/github-readme-stats)
 <div align="center">
   <a href="https://leetcode.com/GrandMaster5000/"><img src="https://leetcard.jacoblin.cool/GrandMaster5000?theme=dark" width="400" /></a>
 </div>
