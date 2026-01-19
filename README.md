@@ -13,8 +13,11 @@ Software engineer with 6+ years of experience.  Worked for innovative startups, 
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
-<!--
 ## 📊 Statistics
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
+</div>
+<!--
 <div align="center">
   <a href="https://leetcode.com/GrandMaster5000/"><img src="https://leetcard.jacoblin.cool/GrandMaster5000?theme=dark" width="400" /></a>
 </div>
