@@ -1,5 +1,3 @@
-[![Header](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac)
-
 ## 👋 Hello! 
 Software engineer with 6+ years of experience.  Worked for innovative startups, large enterprise products.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
 
@@ -15,10 +13,12 @@ Software engineer with 6+ years of experience.  Worked for innovative startups, 
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
+<!--
 ## 📊 Statistics
 <div align="center">
   <a href="https://leetcode.com/GrandMaster5000/"><img src="https://leetcard.jacoblin.cool/GrandMaster5000?theme=dark" width="400" /></a>
 </div>
+-->
 
 <!--
 Here are some ideas to get you started:
