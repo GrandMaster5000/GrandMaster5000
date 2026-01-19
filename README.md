@@ -15,7 +15,7 @@ Software engineer with 6+ years of experience.  Worked for innovative startups, 
 
 ## 📊 Statistics
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrandMaster5000&layout=compact&theme=buefy&hide_border=true" />
 </div>
 <!--
 <div align="center">
